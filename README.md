@@ -1,6 +1,6 @@
 # Wine Quality Data Analysis
 
-![alt text](wine.jpg)
+![alt text][def]
 
 This project demonstrates how to load, explore, analyze, and visualize the red and white wine quality datasets using Python libraries: pandas, matplotlib, and seaborn.
 
@@ -43,3 +43,6 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 This project is for educational purposes and demonstrates basic data analysis and visualization techniques in Python.
+
+
+[def]: wine.jpg
