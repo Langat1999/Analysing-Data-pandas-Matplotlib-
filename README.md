@@ -39,7 +39,7 @@ pip install pandas numpy matplotlib seaborn
 - [UCI Machine Learning Repository: Wine Quality Data Set](https://archive.ics.uci.edu/ml/datasets/wine+quality)
 
 ## Author
-- Your Name
+- Langat JM
 
 ---
 This project is for educational purposes and demonstrates basic data analysis and visualization techniques in Python.
